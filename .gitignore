@@ -1,0 +1,5 @@
+jupyterhub.sqlite
+jupyterhub-proxy.pid
+jupyterhub_cookie_secret
+voilahub_launcher/node_modules/*
+voilahub/__pycache__/*
