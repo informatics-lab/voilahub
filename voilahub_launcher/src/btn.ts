@@ -56,7 +56,7 @@ export class LaunchButton implements DocumentRegistry.IWidgetExtension<NotebookP
                         console.log('success!', url)
                         showDialog({
                             title: 'Rename File',
-                            body: `Please share this link <a href=${url}>${url}</a>`,
+                            body: `Please share this url: ${url}`,
                             buttons: [Dialog.okButton({ label: 'Ok' })]
                         })
                     }, () => {
