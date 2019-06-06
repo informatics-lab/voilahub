@@ -1,5 +1,5 @@
 {
-    "name": "voilahub_launcher",
+    "name": "@informaticslab/voilahub_launcher",
     "version": "0.1.0",
     "description": "A JupyterLab extension to interface with Voila Server Hub Extension",
     "keywords": [
